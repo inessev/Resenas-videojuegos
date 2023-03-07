@@ -1,6 +1,6 @@
 body { 
     color:rgb(0, 0, 0);
-    background-color: rgb(181, 184, 255);   
+    background-color: rgb(192, 194, 255);   
 }
 
 a:visited{
@@ -25,7 +25,7 @@ div {
 }
 
 h1, h2, h3.diseñoh  {
-color: rgb(132, 252, 67);
+color: rgb(199, 255, 170);
 background-color: rgb(188, 225, 171);
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
