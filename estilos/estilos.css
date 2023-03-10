@@ -36,3 +36,7 @@ h3.diseñoh {
 table {
     width: 100%;
 }
+
+thead {
+    background-color: palevioletred;
+}
